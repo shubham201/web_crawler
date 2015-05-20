@@ -1,0 +1,32 @@
+--------------
+Introduction:
+--------------
+"web_crawler" is a web crawler based on python module Beautifulsoup.
+Now it works only for python2.
+At present this web-crawler, take a website as its input and then list all the websites crawling through the input website.
+And then on clicking on any link address gives the texts of that web page.
+
+
+--------------
+Requirements:
+--------------
+i)   bs4 (BeautifulSoup)
+ii)  Tkinter
+iii) urllib2
+
+
+--------------
+Proxy:
+--------------
+Replace:
+i)   proxy_user_name
+ii)  proxy_password
+iii) http_proxy
+iv)  http_proxy_port
+with your own proxy settings in both other files.
+
+
+--------------
+Improvement:
+--------------
+Please help to improve if interested and report if any problem persist.
